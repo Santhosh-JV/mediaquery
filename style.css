@@ -1,0 +1,15 @@
+.main {
+    @media screen and (min-width: 600px) {
+        background-color: blue;
+        
+    }
+
+
+
+@media screen and (max-width:500px) {
+    background-color: greenyellow;
+
+    
+}
+
+}
